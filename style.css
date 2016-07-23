@@ -4,7 +4,7 @@
 }*/
 
 .img-resize {
-	width: 100%;
+	width: 80%;
 }
 
 .capitalize {
@@ -13,4 +13,13 @@
 
 .moves-list {
 	list-style: none;
+	margin-left: 10px;
+}
+
+.last:last-of-type {
+	font-weight: bold;
+}
+
+.place-right {
+	margin-left: 435px;
 }
