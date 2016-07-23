@@ -16,7 +16,7 @@
 		</div>
 		<div ng-controller="listCtrl as list">
 			<div class="row">
-				<div class="col-sm-6" ng-repeat="pokemon in list.pokemons">
+				<div class="col-sm-6" ng-repeat="pokemon in list.pokemons | orderBy: 'attack':true | limitTo: list.quantity">
 					<div class="well well-sm">
 						<div class="row">
 							<div class="col-md-6 img-fit">
@@ -24,9 +24,11 @@
 							</div>
 							<div class="col-md-6">
 								<h2>{{ pokemon.name }}</h2>
-								<p> Type: {{ pokemon.type }}</p>
-								<p> Moves: </p>
-								<p ng-repeat="move in pokemon.moves"></p>
+								<p class="capitalize"> Type: {{ pokemon.type }}</p>
+								<p>Moves:</p>
+								<ul class="moves-list">
+									<li class="capitalize" ng-repeat="move in pokemon.moves">{{ move }}</li>
+								</ul>
 							</div>
 						</div>
 					</div>

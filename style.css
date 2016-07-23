@@ -1,0 +1,16 @@
+/*.img-fit {
+	width: 20px;
+	height: auto;
+}*/
+
+.img-resize {
+	width: 100%;
+}
+
+.capitalize {
+	text-transform: capitalize;
+}
+
+.moves-list {
+	list-style: none;
+}
