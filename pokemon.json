@@ -3,6 +3,7 @@
    "name":"Bulbasaur",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
    "attack":49,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":49,
    "evolveLevel":16,
    "evolveTo":"2",
@@ -19,6 +20,7 @@
    "name":"Ivysaur",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
    "attack":62,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":63,
    "evolveLevel":32,
    "evolveTo":"3",
@@ -34,6 +36,7 @@
    "name":"Venusaur",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
    "attack":82,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":83,
    "type":"grass",
    "moves":[
@@ -47,6 +50,7 @@
    "name":"Charmander",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
    "attack":52,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":43,
    "evolveLevel":16,
    "evolveTo":"5",
@@ -64,6 +68,7 @@
    "name":"Charmeleon",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png",
    "attack":64,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":58,
    "evolveLevel":36,
    "evolveTo":"6",
@@ -80,6 +85,7 @@
    "name":"Charizard",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
    "attack":84,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":78,
    "type":"fire",
    "moves":[
@@ -94,6 +100,7 @@
    "name":"Squirtle",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
    "attack":48,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "evolveLevel":16,
    "evolveTo":"8",
@@ -111,6 +118,7 @@
    "name":"Wartortle",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png",
    "attack":63,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "evolveLevel":36,
    "evolveTo":"9",
@@ -127,6 +135,7 @@
    "name":"Blastoise",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png",
    "attack":83,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":100,
    "type":"water",
    "moves":[
@@ -141,6 +150,7 @@
    "name":"Caterpie",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png",
    "attack":30,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "evolveLevel":7,
    "evolveTo":"11",
@@ -156,6 +166,7 @@
    "name":"Butterfree",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png",
    "attack":45,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":50,
    "type":"bug",
    "moves":[
@@ -170,6 +181,7 @@
    "name":"Weedle",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png",
    "attack":35,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":30,
    "evolveLevel":7,
    "evolveTo":"14",
@@ -185,6 +197,7 @@
    "name":"Pidgey",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png",
    "attack":45,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":40,
    "evolveLevel":18,
    "evolveTo":"17",
@@ -201,6 +214,7 @@
    "name":"Pidgeotto",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png",
    "attack":60,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":55,
    "evolveLevel":36,
    "evolveTo":"18",
@@ -216,6 +230,7 @@
    "name":"Pidgeot",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":75,
    "type":"normal",
    "moves":[
@@ -229,6 +244,7 @@
    "name":"Rattata",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png",
    "attack":56,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "evolveLevel":20,
    "evolveTo":"20",
@@ -245,6 +261,7 @@
    "name":"Raticate",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png",
    "attack":81,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "type":"normal",
    "moves":[
@@ -257,6 +274,7 @@
    "name":"Spearow",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png",
    "attack":60,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":30,
    "evolveLevel":20,
    "evolveTo":"22",
@@ -272,6 +290,7 @@
    "name":"Fearow",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png",
    "attack":90,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "type":"normal",
    "moves":[
@@ -284,6 +303,7 @@
    "name":"Ekans",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png",
    "attack":60,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":44,
    "evolveLevel":22,
    "evolveTo":"24",
@@ -300,6 +320,7 @@
    "name":"Arbok",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png",
    "attack":85,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":69,
    "type":"poison",
    "moves":[
@@ -313,6 +334,7 @@
    "name":"Raichu",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png",
    "attack":90,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":55,
    "type":"electric",
    "moves":[
@@ -325,6 +347,7 @@
    "name":"Sandshrew",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png",
    "attack":75,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":85,
    "evolveLevel":22,
    "evolveTo":"28",
@@ -341,6 +364,7 @@
    "name":"Sandslash",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png",
    "attack":100,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":110,
    "type":"ground",
    "moves":[
@@ -355,6 +379,7 @@
    "name":"Nidoran",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png",
    "attack":47,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":52,
    "evolveLevel":16,
    "evolveTo":"30",
@@ -370,6 +395,7 @@
    "name":"Nidoqueen",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png",
    "attack":82,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":87,
    "type":"poison",
    "moves":[
@@ -384,6 +410,7 @@
    "name":"Nidoran",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png",
    "attack":57,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":40,
    "evolveLevel":16,
    "evolveTo":"33",
@@ -399,6 +426,7 @@
    "name":"Nidoking",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png",
    "attack":92,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":77,
    "type":"poison",
    "moves":[
@@ -412,6 +440,7 @@
    "name":"Ninetales",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png",
    "attack":76,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":75,
    "type":"fire",
    "moves":[
@@ -423,6 +452,7 @@
    "name":"Zubat",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png",
    "attack":45,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "evolveLevel":22,
    "evolveTo":"42",
@@ -440,6 +470,7 @@
    "name":"Golbat",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "type":"poison",
    "moves":[
@@ -454,6 +485,7 @@
    "name":"Paras",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png",
    "attack":70,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":55,
    "evolveLevel":24,
    "evolveTo":"47",
@@ -469,6 +501,7 @@
    "name":"Parasect",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png",
    "attack":95,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "type":"bug",
    "moves":[
@@ -481,6 +514,7 @@
    "name":"Venonat",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png",
    "attack":55,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":50,
    "evolveLevel":31,
    "evolveTo":"49",
@@ -497,6 +531,7 @@
    "name":"Venomoth",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png",
    "attack":65,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "type":"bug",
    "moves":[
@@ -511,6 +546,7 @@
    "name":"Diglett",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png",
    "attack":55,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":25,
    "evolveLevel":26,
    "evolveTo":"51",
@@ -526,6 +562,7 @@
    "name":"Dugtrio",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":50,
    "type":"ground",
    "moves":[
@@ -539,6 +576,7 @@
    "name":"Meowth",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png",
    "attack":45,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "evolveLevel":28,
    "evolveTo":"53",
@@ -555,6 +593,7 @@
    "name":"Persian",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
    "attack":70,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "type":"normal",
    "moves":[
@@ -568,6 +607,7 @@
    "name":"Psyduck",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png",
    "attack":52,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":48,
    "evolveLevel":33,
    "evolveTo":"55",
@@ -584,6 +624,7 @@
    "name":"Golduck",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png",
    "attack":82,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":78,
    "type":"water",
    "moves":[
@@ -597,6 +638,7 @@
    "name":"Mankey",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "evolveLevel":28,
    "evolveTo":"57",
@@ -614,6 +656,7 @@
    "name":"Primeape",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png",
    "attack":105,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "type":"fighting",
    "moves":[
@@ -628,6 +671,7 @@
    "name":"Arcanine",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png",
    "attack":110,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "type":"fire",
    "moves":[
@@ -640,6 +684,7 @@
    "name":"Poliwag",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png",
    "attack":50,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":40,
    "evolveLevel":25,
    "evolveTo":"61",
@@ -656,6 +701,7 @@
    "name":"Poliwrath",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png",
    "attack":85,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "type":"water",
    "moves":[
@@ -667,6 +713,7 @@
    "name":"Alakazam",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png",
    "attack":50,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":45,
    "type":"psychic",
    "moves":[
@@ -680,6 +727,7 @@
    "name":"Machop",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":50,
    "evolveLevel":28,
    "evolveTo":"67",
@@ -696,6 +744,7 @@
    "name":"Machamp",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png",
    "attack":130,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "type":"fighting",
    "moves":[
@@ -710,6 +759,7 @@
    "name":"Bellsprout",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png",
    "attack":75,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "evolveLevel":21,
    "evolveTo":"70",
@@ -725,6 +775,7 @@
    "name":"Victreebel",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png",
    "attack":105,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "type":"grass",
    "moves":[
@@ -737,6 +788,7 @@
    "name":"Tentacool",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png",
    "attack":40,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "evolveLevel":30,
    "evolveTo":"73",
@@ -755,6 +807,7 @@
    "name":"Tentacruel",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png",
    "attack":70,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "type":"water",
    "moves":[
@@ -769,6 +822,7 @@
    "name":"Geodude",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":100,
    "evolveLevel":25,
    "evolveTo":"75",
@@ -785,6 +839,7 @@
    "name":"Golem",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png",
    "attack":110,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":130,
    "type":"rock",
    "moves":[
@@ -798,6 +853,7 @@
    "name":"Ponyta",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
    "attack":85,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":55,
    "evolveLevel":40,
    "evolveTo":"78",
@@ -814,6 +870,7 @@
    "name":"Rapidash",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png",
    "attack":100,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "type":"fire",
    "moves":[
@@ -827,6 +884,7 @@
    "name":"Slowpoke",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png",
    "attack":65,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "evolveLevel":37,
    "evolveTo":"80",
@@ -845,6 +903,7 @@
    "name":"Slowbro",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png",
    "attack":75,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":110,
    "type":"water",
    "moves":[
@@ -859,6 +918,7 @@
    "name":"Magnemite",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png",
    "attack":35,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "evolveLevel":30,
    "evolveTo":"82",
@@ -876,6 +936,7 @@
    "name":"Magneton",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png",
    "attack":60,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "type":"electric",
    "moves":[
@@ -890,6 +951,7 @@
    "name":"Farfetch'd",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png",
    "attack":65,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":55,
    "type":"normal",
    "moves":[
@@ -904,6 +966,7 @@
    "name":"Doduo",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png",
    "attack":85,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":45,
    "evolveLevel":31,
    "evolveTo":"85",
@@ -919,6 +982,7 @@
    "name":"Dodrio",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png",
    "attack":110,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "type":"normal",
    "moves":[
@@ -931,6 +995,7 @@
    "name":"Seel",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png",
    "attack":45,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":55,
    "evolveLevel":34,
    "evolveTo":"87",
@@ -948,6 +1013,7 @@
    "name":"Dewgong",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png",
    "attack":70,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "type":"water",
    "moves":[
@@ -962,6 +1028,7 @@
    "name":"Grimer",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":50,
    "evolveLevel":38,
    "evolveTo":"89",
@@ -978,6 +1045,7 @@
    "name":"Muk",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png",
    "attack":105,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":75,
    "type":"poison",
    "moves":[
@@ -991,6 +1059,7 @@
    "name":"Cloyster",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
    "attack":95,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":180,
    "type":"water",
    "moves":[
@@ -1002,6 +1071,7 @@
    "name":"Gastly",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
    "attack":35,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":30,
    "evolveLevel":25,
    "evolveTo":"93",
@@ -1018,6 +1088,7 @@
    "name":"Gengar",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
    "attack":65,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "type":"ghost",
    "moves":[
@@ -1032,6 +1103,7 @@
    "name":"Onix",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png",
    "attack":45,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":160,
    "type":"rock",
    "moves":[
@@ -1048,6 +1120,7 @@
    "name":"Drowzee",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png",
    "attack":48,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":45,
    "evolveLevel":26,
    "evolveTo":"97",
@@ -1065,6 +1138,7 @@
    "name":"Hypno",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png",
    "attack":73,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "type":"psychic",
    "moves":[
@@ -1079,6 +1153,7 @@
    "name":"Krabby",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png",
    "attack":105,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":90,
    "evolveLevel":28,
    "evolveTo":"99",
@@ -1097,6 +1172,7 @@
    "name":"Kingler",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png",
    "attack":130,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":115,
    "type":"water",
    "moves":[
@@ -1111,6 +1187,7 @@
    "name":"Voltorb",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png",
    "attack":30,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":50,
    "evolveLevel":30,
    "evolveTo":"101",
@@ -1127,6 +1204,7 @@
    "name":"Electrode",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png",
    "attack":50,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "type":"electric",
    "moves":[
@@ -1140,6 +1218,7 @@
    "name":"Exeggutor",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png",
    "attack":95,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":85,
    "type":"grass",
    "moves":[
@@ -1153,6 +1232,7 @@
    "name":"Cubone",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png",
    "attack":50,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "evolveLevel":28,
    "evolveTo":"105",
@@ -1169,6 +1249,7 @@
    "name":"Marowak",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":110,
    "type":"ground",
    "moves":[
@@ -1181,6 +1262,7 @@
    "name":"Hitmonlee",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png",
    "attack":120,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":53,
    "evolveLevel":20,
    "evolveTo":"107",
@@ -1196,6 +1278,7 @@
    "name":"Hitmonchan",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png",
    "attack":105,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":79,
    "type":"fighting",
    "moves":[
@@ -1210,6 +1293,7 @@
    "name":"Lickitung",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png",
    "attack":55,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":75,
    "type":"normal",
    "moves":[
@@ -1225,6 +1309,7 @@
    "name":"Koffing",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png",
    "attack":65,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "evolveLevel":35,
    "evolveTo":"110",
@@ -1242,6 +1327,7 @@
    "name":"Weezing",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png",
    "attack":90,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":120,
    "type":"poison",
    "moves":[
@@ -1255,6 +1341,7 @@
    "name":"Rhyhorn",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png",
    "attack":85,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "evolveLevel":42,
    "evolveTo":"112",
@@ -1271,6 +1358,7 @@
    "name":"Rhydon",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png",
    "attack":130,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":120,
    "type":"ground",
    "moves":[
@@ -1285,6 +1373,7 @@
    "name":"Chansey",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png",
    "attack":5,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":5,
    "type":"normal",
    "moves":[
@@ -1299,6 +1388,7 @@
    "name":"Tangela",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png",
    "attack":55,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":115,
    "type":"grass",
    "moves":[
@@ -1314,6 +1404,7 @@
    "name":"Kangaskhan",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png",
    "attack":95,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "type":"normal",
    "moves":[
@@ -1329,6 +1420,7 @@
    "name":"Horsea",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png",
    "attack":40,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "evolveLevel":32,
    "evolveTo":"117",
@@ -1346,6 +1438,7 @@
    "name":"Seadra",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png",
    "attack":65,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "type":"water",
    "moves":[
@@ -1360,6 +1453,7 @@
    "name":"Goldeen",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png",
    "attack":67,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "evolveLevel":33,
    "evolveTo":"119",
@@ -1376,6 +1470,7 @@
    "name":"Seaking",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png",
    "attack":92,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "type":"water",
    "moves":[
@@ -1390,6 +1485,7 @@
    "name":"Starmie",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png",
    "attack":75,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":85,
    "type":"water",
    "moves":[
@@ -1402,6 +1498,7 @@
    "name":"Mr. mime",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png",
    "attack":45,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "type":"psychic",
    "moves":[
@@ -1418,6 +1515,7 @@
    "name":"Scyther",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png",
    "attack":110,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "type":"bug",
    "moves":[
@@ -1432,6 +1530,7 @@
    "name":"Jynx",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
    "attack":50,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":35,
    "type":"ice",
    "moves":[
@@ -1448,6 +1547,7 @@
    "name":"Electabuzz",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png",
    "attack":83,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":57,
    "type":"electric",
    "moves":[
@@ -1464,6 +1564,7 @@
    "name":"Magmar",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png",
    "attack":95,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":57,
    "type":"fire",
    "moves":[
@@ -1480,6 +1581,7 @@
    "name":"Pinsir",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png",
    "attack":125,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":100,
    "type":"bug",
    "moves":[
@@ -1493,6 +1595,7 @@
    "name":"Tauros",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png",
    "attack":100,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "type":"normal",
    "moves":[
@@ -1507,6 +1610,7 @@
    "name":"Magikarp",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png",
    "attack":10,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":55,
    "evolveLevel":20,
    "evolveTo":"130",
@@ -1522,6 +1626,7 @@
    "name":"Gyarados",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
    "attack":125,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":79,
    "type":"water",
    "moves":[
@@ -1535,6 +1640,7 @@
    "name":"Lapras",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png",
    "attack":85,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":80,
    "type":"water",
    "moves":[
@@ -1551,6 +1657,7 @@
    "name":"Eevee",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
    "attack":55,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":50,
    "type":"normal",
    "moves":[
@@ -1567,6 +1674,7 @@
    "name":"Jolteon",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png",
    "attack":65,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "type":"electric",
    "moves":[
@@ -1580,6 +1688,7 @@
    "name":"Flareon",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png",
    "attack":130,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":60,
    "type":"fire",
    "moves":[
@@ -1594,6 +1703,7 @@
    "name":"Porygon",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png",
    "attack":60,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":70,
    "type":"normal",
    "moves":[
@@ -1609,6 +1719,7 @@
    "name":"Omanyte",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png",
    "attack":40,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":100,
    "evolveLevel":40,
    "evolveTo":"139",
@@ -1625,6 +1736,7 @@
    "name":"Omastar",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png",
    "attack":60,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":125,
    "type":"rock",
    "moves":[
@@ -1639,6 +1751,7 @@
    "name":"Kabuto",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png",
    "attack":80,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":90,
    "evolveLevel":40,
    "evolveTo":"141",
@@ -1653,6 +1766,7 @@
    "name":"Kabutops",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png",
    "attack":115,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":105,
    "type":"rock",
    "moves":[
@@ -1667,6 +1781,7 @@
    "name":"Aerodactyl",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png",
    "attack":105,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "type":"rock",
    "moves":[
@@ -1680,6 +1795,7 @@
    "name":"Snorlax",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
    "attack":110,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "type":"normal",
    "moves":[
@@ -1696,6 +1812,7 @@
    "name":"Articuno",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png",
    "attack":85,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":100,
    "type":"ice",
    "moves":[
@@ -1712,6 +1829,7 @@
    "name":"Zapdos",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png",
    "attack":90,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":85,
    "type":"electric",
    "moves":[
@@ -1728,6 +1846,7 @@
    "name":"Moltres",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png",
    "attack":100,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":90,
    "type":"fire",
    "moves":[
@@ -1744,6 +1863,7 @@
    "name":"Dratini",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png",
    "attack":64,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":45,
    "evolveLevel":30,
    "evolveTo":"148",
@@ -1760,6 +1880,7 @@
    "name":"Dragonair",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png",
    "attack":84,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":65,
    "evolveLevel":55,
    "evolveTo":"149",
@@ -1774,6 +1895,7 @@
    "name":"Dragonite",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png",
    "attack":134,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":95,
    "type":"dragon",
    "moves":[
@@ -1787,6 +1909,7 @@
    "name":"Mewtwo",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
    "attack":110,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":90,
    "type":"psychic",
    "moves":[
@@ -1802,6 +1925,7 @@
    "name":"Mew",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png",
    "attack":100,
+   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
    "defense":100,
    "type":"psychic",
    "moves":[

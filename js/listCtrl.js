@@ -4,6 +4,7 @@
 			var self = this;
 			self.quantity = 10;
 			self.currentPokemon = {};
+			self.searchedPokemon = "";
 
 			self.showPokemonInfo = function(pokemon) {
 				self.currentPokemon = pokemon;

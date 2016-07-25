@@ -16,8 +16,12 @@
 		</div>
 		<hr>
 		<div ng-controller="listCtrl as list">
+			<form class="form-inline well well-sm">
+				<span class="glyphicon glyphicon-search"></span>
+				<input type="text" placeholder="Search..." class="form-control" ng-model="list.searchedPokemon">
+			</form>
 			<div class="row">
-				<div class="col-sm-6" ng-repeat="pokemon in list.pokemons">
+				<div class="col-sm-6" ng-repeat="pokemon in list.pokemons | filter:{name:list.searchedPokemon}">
 					<div class="well well-sm">
 						<div class="row">
 							<div class="col-md-6 img-fit">
@@ -48,16 +52,22 @@
 									<img class="img-rounded modal-img-resize" ng-src="{{ list.currentPokemon.image }}">
 								</div>
 							</div>
-							<div class="row">
+							<div class="row buffer">
 								<div class="col-md-6">
-									<p class="capitalize"> Type: {{ list.currentPokemon.type }}</p>
-									<p style="float: left">Moves:</p>
-									<ul class="moves-list">
-										<li class="capitalize last" ng-repeat="move in list.currentPokemon.moves">{{ move }}</li>
+									<p class="capitalize"> <b>Type:</b> {{ list.currentPokemon.type }}</p>
+									<b>Moves:</b>
+									<ul class="modal-fix">
+										<li class="capitalize modal-moves-list" ng-repeat="move in list.currentPokemon.moves">{{ move }}</li>
 									</ul>
 								</div>
 							</div>
-						</div>
+							<div class="buffer">
+								<p>{{list.currentPokemon.description }}</p>
+								<div class="center-align">
+									<button class="btn btn-primary" type="button" data-dismiss="modal">Close</button>
+								</div>
+							</div>
+						</di>
 					</div>
 				</div>
 			</div>

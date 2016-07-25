@@ -2,6 +2,15 @@
 	text-align: center;
 }*/
 
+.center-align {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.buffer {
+	margin-top: 20px;
+}
+
 .img-resize {
 	width: 80%;
 }
@@ -25,4 +34,21 @@
 
 .modal-img-resize {
 	width: 50%;
+}
+
+.modal-moves-list {
+	display: inline;
+}
+
+.modal-fix {
+	display: inline;
+	margin-left: -40px;
+}
+
+.modal-moves-list:after {
+	content: ", ";
+}
+
+.modal-moves-list:last-child:after {
+	content: "";
 }
