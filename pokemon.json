@@ -1,5 +1,5 @@
 [
- {
+  {
    "name":"Bulbasaur",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
    "attack":49,
@@ -20,7 +20,7 @@
    "name":"Ivysaur",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
    "attack":62,
-   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
+   "description": "Ivysaur is a quadruped Pokémon similar to a dinosaur. It has blue-green skin with darker patches. On top of its head are pointed ears with black inside, and it has narrow red eyes. It has a short, rounded snout with a wide mouth. Two pointed teeth protrude from its upper jaw. Each of its feet have three claws on them. The bulb on its back has bloomed into a large pink bud. A short brown trunk surrounded by leafy green fronds supports the bud. The weight of the plant prevents Ivysaur from standing on its hind legs and forces its legs to grow sturdy. When its flower is ready to bloom, it gives off a distinct, strong sweet-smelling aroma and starts swelling. Ivysaur will also start spending more time in sunlight in preparation for its upcoming evolution. Exposure to sunlight adds to the strength of both Ivysaur and its plant. Ivysaur's natural habitat is plains. However, it is rare, as many are in captivity.",
    "defense":63,
    "evolveLevel":32,
    "evolveTo":"3",
@@ -36,7 +36,7 @@
    "name":"Venusaur",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
    "attack":82,
-   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
+   "description": "Venusaur is a squat, quadruped Pokémon with bumpy, blue-green skin. It has small, circular red eyes, a short, blunt snout, and a wide mouth with two pointed teeth in the upper jaw and four in the lower jaw. On top of its head are small, pointed ears with reddish pink insides. It has three clawed toes on each foot. The bud on its back has bloomed in a large pink, white-spotted flower. The flower is supported by a thick, brown trunk surrounded by green fronds. A female Venusaur will have a seed in the center of its flower. As Mega Venusaur, the flower on its back grows larger and two smaller pink flowers bloom, one on its forehead and one on its rear. The weight of the flower causes its legs to become sturdier in order to support it. Additional leaves with woody stems, which are supported by vines, are grown around the flower. Mega Venusaur also develops dark markings on its forehead below the new flower. Venusaur uses its flower to catch the sun's rays to convert them into energy, which causes the flower to take on colors that are more vibrant. The flower releases a soothing scent that attracts Pokémon. This scent becomes stronger after a rainy day. In the anime, Venusaur has demonstrated the ability to manipulate nature and lead evolution ceremonies for Bulbasaur and Ivysaur. This Pokémon is rarely found in the wild, but has been known to inhabit grasslands.",
    "defense":83,
    "type":"grass",
    "moves":[
@@ -50,7 +50,7 @@
    "name":"Charmander",
    "image": "http://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
    "attack":52,
-   "description": "Bulbasaur is a small, quadruped Pokémon that has blue-green skin with darker green patches. It has red eyes with white pupils and pointed, ear-like structures on top of its head. Its snout is short and blunt, and it has a wide mouth. A pair of small, pointed teeth are visible in the upper jaw when its mouth is open. Each of its thick legs ends with three sharp claws. On its back is a green plant bulb, which is grown from a seed planted there at birth. The bulb provides it with energy through photosynthesis as well as from the nutrient-rich seeds contained within.",
+   "description": "Charmander is a bipedal, reptilian Pokémon with a primarily orange body. Its underside from the chest down and soles are cream-colored. It has two small fangs visible in both its upper and lower jaws and blue eyes. Its arms and legs are short with four fingers and three clawed toes. A fire burns at the tip of this Pokémon's slender tail, and has blazed there since Charmander's birth. The flame can be used as an indication of Charmander's health and mood, burning brightly when the Pokémon is strong, weakly when it is exhausted, wavering when it is happy, and blazing when it is enraged. It is said that Charmander dies if its flame goes out. However, if the Pokémon is healthy, the flame will continue to burn if gets a bit wet and is said to steam in the rain. Charmander can be found in hot, mountainous areas. However, it is found far more often in the ownership of Trainers. As shown in Pokémon Snap, Charmander exhibits pack behavior, calling others of its species if it finds food.",
    "defense":43,
    "evolveLevel":16,
    "evolveTo":"5",

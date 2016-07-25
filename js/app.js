@@ -1,3 +1,3 @@
 (function () {
-	angular.module('pokemonQuiz', []);
+	angular.module("pokemonQuiz", []);
 })();

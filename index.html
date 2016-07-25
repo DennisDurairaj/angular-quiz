@@ -15,10 +15,11 @@
 			<h3>Learn about all the pokemons before you decide to take on the <strong>ULTIMATE POKEMON QUIZ</strong></h3>
 		</div>
 		<hr>
-		<div ng-controller="listCtrl as list">
+		<div ng-controller="listCtrl as list" ng-hide="list.quizObj.startQuiz">
 			<form class="form-inline well well-sm">
 				<span class="glyphicon glyphicon-search"></span>
 				<input type="text" placeholder="Search..." class="form-control" ng-model="list.searchedPokemon">
+				<button type="button" class="btn btn-success pull-right" ng-click="list.beginQuiz()">Start Quiz</button>
 			</form>
 			<div class="row">
 				<div class="col-sm-6" ng-repeat="pokemon in list.pokemons | filter:{name:list.searchedPokemon}">
@@ -67,16 +68,23 @@
 									<button class="btn btn-primary" type="button" data-dismiss="modal">Close</button>
 								</div>
 							</div>
-						</di>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
+		<div ng-controller="quizCtrl as quiz" ng-show="quiz.quizObj.startQuiz">
+			<h1>Quiz begin</h1>
+		</div>
 	</div>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js" type="text/javascript" charset="utf-8" async defer></script>
-	<script   src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
+	<script src="https://code.jquery.com/jquery-2.2.4.js" integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI=" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 	<script src="js/app.js"></script>
-	<script src="js/listCtrl.js"></script>
+	<script src="js/controllers/listCtrl.js"></script>
+	<script src="js/controllers/quizCtrl.js"></script>
+	<script src="js/factories/quizService.js"></script>
+	<script src="js/factories/dataService.js"></script>
 </body>
 </html>
