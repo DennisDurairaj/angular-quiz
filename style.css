@@ -1,6 +1,5 @@
 /*.img-fit {
-	width: 20px;
-	height: auto;
+	text-align: center;
 }*/
 
 .img-resize {
@@ -22,4 +21,8 @@
 
 .place-right {
 	margin-left: 435px;
+}
+
+.modal-img-resize {
+	width: 50%;
 }
