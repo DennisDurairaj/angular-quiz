@@ -52,3 +52,9 @@
 .modal-moves-list:last-child:after {
 	content: "";
 }
+
+.answer {
+	padding: 10px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
